@@ -6,14 +6,10 @@ This guide covers: **EC2 setup, Security Group configuration, SSH access (PuTTY,
 ## Model Details:
 
 ### Salary Prediction using Linear Regression
-1. Developed using sklearn
-linear_model --> LinearRegression
-2. Model Serializer
-pickle
-3. Web Framework / API Handler
-Flask
-4. Deployment
-AWS
+1. Developed using sklearn: linear_model --> LinearRegression
+2. Model Serializer: pickle
+3. Web Framework / API Handler: Flask
+4. Deployment: AWS EC2
 
 Steps:
 1. Train our Model
