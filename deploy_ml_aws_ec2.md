@@ -4,14 +4,10 @@ This guide covers: **EC2 setup, Security Group configuration, SSH access (PuTTY,
 ## Model Details:
 
 ### Salary Prediction using Linear Regression
-1. Developed using sklearn
-linear_model --> LinearRegression
-2. Model Serializer
-pickle
-3. Web Framework / API Handler
-Flask
-4. Deployment
-AWS
+1. Developed using sklearn: linear_model --> LinearRegression
+2. Model Serializer: pickle
+3. Web Framework / API Handler: Flask
+4. Deployment: AWS EC2
 
 Steps:
 1. Train our Model
@@ -149,4 +145,4 @@ Your ML model should now be accessible via the Flask web app! 🚀
 | **7** | Run Flask app (`python3 app.py --host=0.0.0.0 --port=8080`) |
 | **8** | Open in browser (`http://your-ec2-public-ip:8080`) |
 
-Now your **ML model is deployed on AWS EC2!** 🎉 Let me know if you need further help! 🚀🔥
+Now your **ML model is deployed on AWS EC2!**
