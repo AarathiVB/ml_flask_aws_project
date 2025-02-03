@@ -1,4 +1,4 @@
-# Deployed ML Model is accessible here: http://ec2-63-176-175-8.eu-central-1.compute.amazonaws.com:8080/
+## Deployed ML Model is accessible here: http://ec2-63-176-175-8.eu-central-1.compute.amazonaws.com:8080/
 
 ## **🚀 Step-by-Step Guide to Deploy an ML Model on AWS EC2 using Flask**
 This guide covers: **EC2 setup, Security Group configuration, SSH access (PuTTY, WinSCP), and Flask deployment.**
