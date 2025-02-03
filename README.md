@@ -1,3 +1,5 @@
+# Deployed ML Model is accessible here: http://ec2-63-176-175-8.eu-central-1.compute.amazonaws.com:8080/
+
 ## **🚀 Step-by-Step Guide to Deploy an ML Model on AWS EC2 using Flask**
 This guide covers: **EC2 setup, Security Group configuration, SSH access (PuTTY, WinSCP), and Flask deployment.**
 
@@ -149,4 +151,4 @@ Your ML model should now be accessible via the Flask web app! 🚀
 | **7** | Run Flask app (`python3 app.py --host=0.0.0.0 --port=8080`) |
 | **8** | Open in browser (`http://your-ec2-public-ip:8080`) |
 
-Now your **ML model is deployed on AWS EC2!** 🎉 Let me know if you need further help! 🚀🔥
+Now your **ML model is deployed on AWS EC2!** 🎉
