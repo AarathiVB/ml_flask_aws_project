@@ -94,7 +94,7 @@ In PuTTY (SSH terminal), run:
 
 ```bash
 sudo apt update
-sudo apt install python3-pip python3-venv -y
+sudo apt install python3-pip
 ```
 
 ### **Create a Virtual Environment and Install Dependencies**
